@@ -1,0 +1,53 @@
+{
+  "name": "Medical_Image_Detection_System_For_COVID19",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@ant-design-vue/pro-layout": "^1.0.7",
+    "@antv/data-set": "^0.10.2",
+    "ant-design-vue": "^1.7.4",
+    "core-js": "^3.6.5",
+    "reqwest": "^2.0.5",
+    "vue": "^2.6.11",
+    "vue-pdf": "^4.2.0",
+    "vue-router": "^3.5.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "vue-template-compiler": "^2.6.11",
+    "webpack-theme-color-replacer": "^1.3.12"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "no-console": "off"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

@@ -1,0 +1,56 @@
+Date : 2021-05-11 13:59:33
+Directory : /home/winter/Projects/COVID-19-web/test
+Total : 19 files,  14517 codes, 88 comments, 98 blanks, all 14703 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |     12,951 |          0 |          2 |     12,953 |
+| Vue        |          8 |      1,279 |         64 |         64 |      1,407 |
+| JavaScript |          5 |         95 |         20 |          9 |        124 |
+| Less       |          1 |         89 |          2 |         16 |        107 |
+| XML        |          1 |         68 |          1 |          0 |         69 |
+| Markdown   |          1 |         19 |          0 |          6 |         25 |
+| HTML       |          1 |         16 |          1 |          1 |         18 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                       |         19 |     14,517 |         88 |         98 |     14,703 |
+| public                                                                  |          1 |         16 |          1 |          1 |         18 |
+| src                                                                     |         13 |      1,517 |         81 |         88 |      1,686 |
+| src/assets                                                              |          1 |         68 |          1 |          0 |         69 |
+| src/components                                                          |          4 |        583 |         25 |         25 |        633 |
+| src/router                                                              |          1 |         53 |          7 |          3 |         63 |
+| src/utils                                                               |          1 |         17 |          7 |          2 |         26 |
+| src/views                                                               |          4 |        769 |         41 |         49 |        859 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /home/winter/Projects/COVID-19-web/test/README.md                       | Markdown   |         19 |          0 |          6 |         25 |
+| /home/winter/Projects/COVID-19-web/test/babel.config.js                 | JavaScript |          5 |          6 |          1 |         12 |
+| /home/winter/Projects/COVID-19-web/test/package-lock.json               | JSON       |     12,898 |          0 |          1 |     12,899 |
+| /home/winter/Projects/COVID-19-web/test/package.json                    | JSON       |         53 |          0 |          1 |         54 |
+| /home/winter/Projects/COVID-19-web/test/public/index.html               | HTML       |         16 |          1 |          1 |         18 |
+| /home/winter/Projects/COVID-19-web/test/src/App.vue                     | Vue        |         16 |          0 |          6 |         22 |
+| /home/winter/Projects/COVID-19-web/test/src/assets/background.svg       | XML        |         68 |          1 |          0 |         69 |
+| /home/winter/Projects/COVID-19-web/test/src/components/Introduction.vue | Vue        |         59 |          0 |          1 |         60 |
+| /home/winter/Projects/COVID-19-web/test/src/components/New.vue          | Vue        |        188 |         12 |          2 |        202 |
+| /home/winter/Projects/COVID-19-web/test/src/components/Record.vue       | Vue        |        185 |         13 |          6 |        204 |
+| /home/winter/Projects/COVID-19-web/test/src/components/User.vue         | Vue        |        151 |          0 |         16 |        167 |
+| /home/winter/Projects/COVID-19-web/test/src/main.js                     | JavaScript |         11 |          0 |          3 |         14 |
+| /home/winter/Projects/COVID-19-web/test/src/router/index.js             | JavaScript |         53 |          7 |          3 |         63 |
+| /home/winter/Projects/COVID-19-web/test/src/utils/cookie.js             | JavaScript |         17 |          7 |          2 |         26 |
+| /home/winter/Projects/COVID-19-web/test/src/views/Detail.vue            | Vue        |        236 |          7 |          3 |        246 |
+| /home/winter/Projects/COVID-19-web/test/src/views/Home.vue              | Vue        |        124 |          2 |          4 |        130 |
+| /home/winter/Projects/COVID-19-web/test/src/views/Login.vue             | Vue        |        320 |         30 |         26 |        376 |
+| /home/winter/Projects/COVID-19-web/test/src/views/Workplace.less        | Less       |         89 |          2 |         16 |        107 |
+| /home/winter/Projects/COVID-19-web/test/vue.config.js                   | JavaScript |          9 |          0 |          0 |          9 |
+| Total                                                                   |            |     14,517 |         88 |         98 |     14,703 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
