@@ -1,0 +1,44 @@
+Date : 2021-05-11 14:05:54
+Directory : /home/winter/Projects/COVID-19-web/backend
+Total : 18 files,  1908 codes, 383 comments, 336 blanks, all 2627 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         18 |      1,908 |        383 |        336 |      2,627 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                    |         18 |      1,908 |        383 |        336 |      2,627 |
+| utils                                                                |          8 |      1,059 |        192 |        216 |      1,467 |
+| utils/lungseg                                                        |          4 |        514 |         57 |         90 |        661 |
++----------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                             | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /home/winter/Projects/COVID-19-web/backend/app.py                    | Python   |         95 |          4 |         10 |        109 |
+| /home/winter/Projects/COVID-19-web/backend/auth.py                   | Python   |         27 |          3 |          5 |         35 |
+| /home/winter/Projects/COVID-19-web/backend/config.py                 | Python   |          8 |          0 |          1 |          9 |
+| /home/winter/Projects/COVID-19-web/backend/detection.py              | Python   |        113 |          4 |         13 |        130 |
+| /home/winter/Projects/COVID-19-web/backend/detector.py               | Python   |        282 |         33 |         36 |        351 |
+| /home/winter/Projects/COVID-19-web/backend/login.py                  | Python   |         30 |          4 |          5 |         39 |
+| /home/winter/Projects/COVID-19-web/backend/models.py                 | Python   |         53 |          0 |          7 |         60 |
+| /home/winter/Projects/COVID-19-web/backend/record.py                 | Python   |        137 |          9 |         15 |        161 |
+| /home/winter/Projects/COVID-19-web/backend/test_zip.py               | Python   |         40 |         14 |         11 |         65 |
+| /home/winter/Projects/COVID-19-web/backend/utils/GradCAM.py          | Python   |         97 |         43 |         20 |        160 |
+| /home/winter/Projects/COVID-19-web/backend/utils/densenet.py         | Python   |        140 |         37 |         35 |        212 |
+| /home/winter/Projects/COVID-19-web/backend/utils/lungseg/__init__.py | Python   |          0 |          0 |          1 |          1 |
+| /home/winter/Projects/COVID-19-web/backend/utils/lungseg/mask.py     | Python   |        195 |          6 |         22 |        223 |
+| /home/winter/Projects/COVID-19-web/backend/utils/lungseg/resunet.py  | Python   |        107 |         24 |         25 |        156 |
+| /home/winter/Projects/COVID-19-web/backend/utils/lungseg/utils.py    | Python   |        212 |         27 |         42 |        281 |
+| /home/winter/Projects/COVID-19-web/backend/utils/resnet.py           | Python   |        229 |         40 |         49 |        318 |
+| /home/winter/Projects/COVID-19-web/backend/utils/unet.py             | Python   |         79 |         15 |         22 |        116 |
+| /home/winter/Projects/COVID-19-web/backend/v1_app.py                 | Python   |         64 |        120 |         17 |        201 |
+| Total                                                                |          |      1,908 |        383 |        336 |      2,627 |
++----------------------------------------------------------------------+----------+------------+------------+------------+------------+
