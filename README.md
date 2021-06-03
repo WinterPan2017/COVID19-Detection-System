@@ -3,7 +3,7 @@
  * @Author: Winter
  * @Email: 837950571@qq.com
  * @Date: 2021-05-30 09:35:49
- * @LastEditTime: 2021-06-03 14:50:45
+ * @LastEditTime: 2021-06-03 15:09:28
 -->
 # 新冠肺炎辅助检测系统
 ## 简介
@@ -15,7 +15,7 @@
 ![image](https://github.com/WinterPan2017/COVID19-Detection-System/blob/master/images/detection.gif?raw=true)
 ## 核心算法
 ### CXR检测
-![image](https://github.com/WinterPan2017/COVID19-Detection-System/blob/master/images/CT-d.png?raw=true)
+![image](https://github.com/WinterPan2017/COVID19-Detection-System/blob/master/images/cxr-d.png?raw=true)
 ### CT检测
 #### case-level
 ![image](https://github.com/WinterPan2017/COVID19-Detection-System/blob/master/images/CT-d.png?raw=true)
@@ -25,6 +25,13 @@
 ![image](https://github.com/WinterPan2017/COVID19-Detection-System/blob/master/images/ct-seg.png?raw=true)
 ### CXR Grad-CAM
 ![image](https://github.com/WinterPan2017/COVID19-Detection-System/blob/master/images/cxr-cam.png?raw=true)
+### Algorithm performance
+|  Algorithm   | Train Dataset  | Test Dataset | Test Accuracy
+|  ----  | ----  | ---- | ---- |
+| CXR  | [COVID-19 Chest X-ray Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) | [COVID-19 Chest X-ray Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) | 0.974
+| CT slice-level  | [COVIDx CT-2A Train & Valid](https://www.kaggle.com/hgunraj/covidxct) | [COVIDx CT-2A Test](https://www.kaggle.com/hgunraj/covidxct) | 0.996
+| CT case-level | [COVID-CT-MD Train & Valid](http://i-sip.encs.concordia.ca/2021SPGC-COVID19/index.html) | [COVID-CT-MD Test](http://i-sip.encs.concordia.ca/2021SPGC-COVID19/index.html) | 0.767
+| CT lesion segmentation | [COVID-19 CT Lung and Infection Segmentation Dataset](https://zenodo.org/record/3757476#.YFs_sUMzZH5) | [MosMedData](https://mosmed.ai/en/datasets/covid19_1110/) | 0.623(DSC)
 ## 使用方式
 1. 安装Python环境, 安装依赖
 2. 安装node.js环境并安装对应依赖
