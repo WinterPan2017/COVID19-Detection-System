@@ -3,7 +3,7 @@
  * @Author: Winter
  * @Email: 837950571@qq.com
  * @Date: 2021-05-30 09:35:49
- * @LastEditTime: 2021-06-03 14:40:11
+ * @LastEditTime: 2021-06-03 14:50:45
 -->
 # 新冠肺炎辅助检测系统
 ## 简介
@@ -15,6 +15,7 @@
 ![image](https://github.com/WinterPan2017/COVID19-Detection-System/blob/master/images/detection.gif?raw=true)
 ## 核心算法
 ### CXR检测
+![image](https://github.com/WinterPan2017/COVID19-Detection-System/blob/master/images/CT-d.png?raw=true)
 ### CT检测
 #### case-level
 ![image](https://github.com/WinterPan2017/COVID19-Detection-System/blob/master/images/CT-d.png?raw=true)
