@@ -1,5 +1,6 @@
 <template>
   <a-layout id="components-layout-demo-top" class="home-container">
+    <!-- <a-layout-header class="color:white"><a>基于医学图像的新冠肺炎辅助诊断系统</a></a-layout-header> -->
     <a-layout-header>
       <!-- <div class="logo" style="background: url(~@/assets/log.svg)"></div> -->
       <a-menu
@@ -12,10 +13,11 @@
       >
         <!-- <a-avatar
           size="large"
-          src="~@/assets/logo.png"
+          src="/assets/logo.png"
           style="margin-right: 20px"
           class="logo"
         /> -->
+         <a-menu-item key="" class="font-weight:900;"> 基于医学图像的新冠肺炎辅助诊断系统 </a-menu-item>
         <a-menu-item key="introduction"> 系统简介 </a-menu-item>
         <a-menu-item key="new"> 新增检测 </a-menu-item>
         <a-menu-item key="record"> 检测记录 </a-menu-item>

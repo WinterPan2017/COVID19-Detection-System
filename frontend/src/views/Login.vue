@@ -14,10 +14,11 @@
                 alt="logo"
                 style="height: 90px"
               />
-              <span class="title">COVID-19 医学影像辅助诊断系统</span>
+              <span class="title">基于医学图像的新冠肺炎辅助诊断系统</span>
             </a>
           </div>
-          <div class="desc">基于深度学习的新型冠状病毒医学影像辅助诊断系统</div>
+          <div class="desc">an auxiliary detection system for COVID-19 based
+on medical images</div>
         </div>
 
         <div class="main">
